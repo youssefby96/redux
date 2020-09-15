@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+ background-image: url('https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 48px;
+}
+.btn{
+  display: flex;
+  justify-content: space-around;
+  border: 5px solid rgb(134, 131, 131);
+  background-color:rgb(201, 191, 191);
+  padding: 40px 700px 40px 7;
+  margin: 100px 400px 440px 400px;
+}
+.count{
+  color: rgb(255, 255, 255);
+  margin: 50px;
+  border: 3px solid rgb(134, 131, 131);
+  background-color:rgb(184, 187, 10);
+  padding: 10px;
+}
